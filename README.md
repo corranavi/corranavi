@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corranavi (Corrado)
-- 👀 I’m interested in Data Science and Healthcare
-- 🌱 I’m currently learning PyTorch applied to computer vision (semantic segmentation)
-- Student @PoliTO
+- 👀 Data Scientist
+- 🌱 I’m currently learning PyTorch applied to computer vision and writing my Master thesis
+- MSc in Data Science and Engineering @PoliTO
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/corrado-navilli-ba8093204/ 
 
 <!---
