@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @corranavi (Corrado)
 - 👀 Data Scientist
-- 🌱 I’m currently learning PyTorch applied to computer vision and writing my Master thesis
-- MSc in Data Science and Engineering @PoliTO
+- MSc in Data Science and Engineering @PoliTO (graduated on July 2024)
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/corrado-navilli-ba8093204/ 
 
 <!---
